@@ -1,4 +1,6 @@
 # p5js-game
+To play this game, click on the link bellow:
+--> https://joaoromaniello.github.io/p5js-game/
 
 "The log game" is a simple game that consists of jumping and moving a log while various obstacles try to hit you.
 
