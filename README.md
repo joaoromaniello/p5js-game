@@ -6,6 +6,6 @@ To play this game, click on the link bellow:
 
 ![image](https://user-images.githubusercontent.com/36866624/146799165-83385899-78c4-454e-aa6a-5b275d8dcaff.png)
 
-The aim of this project was to create a game similar to "The Dinosaur Game" from google using different characters and in a more fun way, with a soundtrack and special sound effects
+The main goal of this project was to create a game similar to "The Dinosaur Game" from google using different characters in a funnier way, with a soundtrack and special sound effects
 
 This game was made using the p5js web editor
